@@ -1,0 +1,8 @@
+.DS_Store
+.env
+vendor
+wp
+wp-content/languages
+wp-content/upgrade
+wp-content/mu-plugins/*
+!wp-content/mu-plugins/index.php
