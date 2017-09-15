@@ -1,6 +1,6 @@
 # WordPress Boilerplate
 
-An opinionated WordPress boilerplate, including [Advanced Custom Fields](https://www.advancedcustomfields.com/) and [Timber](https://upstatement.com/timber/), and using [phpdotenv](https://github.com/vlucas/phpdotenv).
+An opinionated WordPress boilerplate, including [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/pro/) and [Timber](https://upstatement.com/timber/), and using [phpdotenv](https://github.com/vlucas/phpdotenv).
 
 
 ## Dependencies
