@@ -15,4 +15,4 @@ An opinionated WordPress boilerplate, including [Advanced Custom Fields Pro](htt
 * Run `$ wp dotenv init --template=.env.example --interactive --with-salts` to add your credentials and generate new keys and salts.
 * Install WordPress as usual.
 
-Full details on this approach to WordPress can be found at [short.is/a-modern-approach-to-wordpress](https://short.is/a-modern-approach-to-wordpress).
+Full details on this approach to WordPress can be found at [short.is/wordpress-and-composer](https://short.is/wordpress-and-composer).
